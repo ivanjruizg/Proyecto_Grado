@@ -20,6 +20,12 @@ class Inicio extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('inicio');
+
+
+	    $datos['titulo']="INICIO";
+
+        $this->load->view('inicio/inc/header',$datos);
+     	$this->load->view('inicio/inicio');
+        $this->load->view('inicio/inc/footer');
 	}
 }
