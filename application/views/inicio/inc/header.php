@@ -45,7 +45,7 @@
         <div class="row">
             <div class="col-lg-4 col-sm-4 col-md-4 col-xs-6">
 
-                <img src="<?php echo base_url();?>assets/img/logo-cecar.png" class="img-responsive " alt="" />
+                <a href="<?php echo base_url();?>"><img src="<?php echo base_url();?>assets/img/logo-cecar.png" class="img-responsive " alt="" /></a>
 
             </div>
 
