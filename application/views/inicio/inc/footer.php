@@ -13,7 +13,32 @@
                 </address>
             </div>
 
-            <div class="col-lg-7 col-sm-8">
+            <div class="col-lg-5 col-md-5">
+                <div class="page-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".5s">
+                    <h1>
+                        FACULTAD DE CIENCIAS BÁSICAS, INGENIERÍA Y ARQUITECTURA
+                    </h1>
+                    <ul class="page-footer-list">
+                        <li>
+                            <i class="fa fa-angle-right"></i>
+                            <a href="about.html">Ingeniería Industrial</a>
+                        </li>
+                        <li>
+                            <i class="fa fa-angle-right"></i>
+                            <a href="faq.html">Ingeniería de sistemas</a>
+                        </li>
+                        <li>
+                            <i class="fa fa-angle-right"></i>
+                            <a href="service.html">Arquitectura</a>
+                        </li>
+
+
+                    </ul>
+                </div>
+            </div>
+
+
+            <div class="col-lg-2 col-md-2">
 
                 <div class="text-footer wow fadeInUp" data-wow-duration="2s" data-wow-delay=".7s">
                     <h1>BIENVENIDO</h1>
@@ -40,6 +65,9 @@
                     <li class="wow flipInX" data-wow-duration="2s" data-wow-delay=".8s"><a href="#"><i class="fa fa-youtube"></i></a></li>
                 </ul>
             </div>
+
+
+
             <div class="col-md-4">
                 <div class="copyright">
                     <p>&copy; Copyright - CECAR <?php echo date('Y') ?>.</p>

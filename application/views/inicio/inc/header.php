@@ -6,7 +6,7 @@
     <meta name="description" content="Developed By M Abdur Rokib Promy">
     <meta name="author" content="cosmic">
     <meta name="keywords" content="Bootstrap 3, Template, Theme, Responsive, Corporate, Business">
-    <link rel="shortcut icon" href="<?php echo base_url();?>assets/img/favicon.png">
+    <link rel="shortcut icon" href="<?php echo base_url();?>assets/img/favicon.ico">
 
     <title> <?php echo $titulo?> </title>
 
