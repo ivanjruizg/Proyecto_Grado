@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="registration" >
                                 ¿No tienes Cuenta Aún?
                                 <a class="registro" href="registration.html">
-                                    Crea una cuenta aquí
+                                    Crea una cuenta aquí........ cambio
                                 </a>
                             </div>
 
